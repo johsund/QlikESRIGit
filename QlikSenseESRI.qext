@@ -1,0 +1,9 @@
+{
+	"name": "Qlik Sense ESRI",
+	"description": "Qlik Sense ESRI Integration",
+	"icon": "map",
+	"type": "visualization",
+	"version": 1,
+	"preview": "map",
+	"author": "Johannes Sunden"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dojo",
+  "homepage": "https://github.com/dojo/dojo",
+  "version": "1.9.7",
+  "_release": "1.9.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.9.7",
+    "commit": "6589ae8e24d0a32d6296081f77cd91b5b9af3c91"
+  },
+  "_source": "git://github.com/dojo/dojo.git",
+  "_target": "~1.9.1",
+  "_originalSource": "dojo"
+}
