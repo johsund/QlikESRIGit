@@ -16,3 +16,5 @@ Measures:
 Numeric value - determines the size of the bubbles 
 
 Built for Qlik Sense 2.1.
+
+Shoutouts to Alex Karlsson & Sebastian Servat for useful advice and examples.
