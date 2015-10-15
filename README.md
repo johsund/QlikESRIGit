@@ -5,6 +5,8 @@ Showcase of Qlik Sense Extension object integrating ESRI Web Maps into Qlik Sens
 
 Create maps by registering under ArcGIS Online and use the Web Map IDs to incorporate the maps in Qlik Sense in order to tie together the analysis and provide additional context to the data.
 
+Extension download link (ZIP): https://github.com/johsund/QlikESRIGit/archive/server_version.zip
+
 Demo Video available here: https://www.youtube.com/watch?v=R-YE4Wdu3c4
 
 The extension includes a sample app with a few maps & data to get you started.
