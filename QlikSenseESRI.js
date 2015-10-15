@@ -1,10 +1,10 @@
 require.config({
 	paths: {
-		"components": "http://localhost:4848/extensions/QlikSenseESRI/bower_components",
-		"dojo": "http://localhost:4848/extensions/QlikSenseESRI/bower_components/dojo",
-		"dijit": "http://localhost:4848/extensions/QlikSenseESRI/bower_components/dijit",
-		"dojox": "http://localhost:4848/extensions/QlikSenseESRI/bower_components/dojox",
-		"esri": "http://js.arcgis.com/3.8/js/esri" 
+		"components": "https://rawgit.com/johsund/QlikESRIGit/master/bower_components", //"http://localhost:4848/extensions/QlikSenseESRI/bower_components",
+		"dojo": "https://rawgit.com/johsund/QlikESRIGit/master/bower_components/dojo",//"http://localhost:4848/extensions/QlikSenseESRI/bower_components/dojo",
+		"dijit": "https://rawgit.com/johsund/QlikESRIGit/master/bower_components/dijit",//"http://localhost:4848/extensions/QlikSenseESRI/bower_components/dijit",
+		"dojox": "https://rawgit.com/johsund/QlikESRIGit/master/bower_components/dojox",//"http://localhost:4848/extensions/QlikSenseESRI/bower_components/dojox",
+		"esri": "https://js.arcgis.com/3.8/js/esri" 
 	}
 });
 
